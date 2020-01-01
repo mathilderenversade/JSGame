@@ -15,4 +15,4 @@ Each instructions must be written as above. Each instruction must be followed by
 
 ## See the Demo
 
-![demo-gif](.gif)
+![demo-gif](DecompOser.gif)
