@@ -12,6 +12,7 @@ Each instructions must be written as above. Each instruction must be followed by
 
 #### Made with Javascript Vanilla
 
+Still some work to do (random start and end cells for example and control users input) but main functionnalities are in place.
 
 ## See the Demo
 
